@@ -19,7 +19,7 @@ Simple Streamlit interface with a checkbox to start the câmera
 Installation
 
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/people-counter-demo.git
+git clone https://github.com/joaolucasdev/people-counter-demo.git
 
 Change to the project folder:
 cd people-counter-demo
@@ -51,3 +51,4 @@ Links
 GitHub Repository: https://github.com/joaolucasdev/people-counter-demo
 
 Live Demo (Streamlit Cloud): https://joaolucasdev-people-counter-demo.streamlit.app
+
